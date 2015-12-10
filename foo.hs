@@ -1,3 +1,3 @@
 main = do
-  putStrLn "bra"
+  putStrLn "bar"
   putStrLn "foo"
