@@ -1,2 +1,2 @@
 main = do
-  putStrLn " Goten Aben"
+  putStrLn "Guten Abend"
